@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: FirstPackagePython
+Version: 0.0
+Summary: My First Package
+Home-page: https://github.com/phamdinhkhanh/FirstPackagePython
+Author: KhanhPhamDinh
+Author-email: phamdinhkhanh.tkt53.neu@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: data
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Trader/Investor/Science/Research
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Cython
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Scientific/Engineering
