@@ -10,9 +10,10 @@ from distutils.extension import Extension
 # import versioneer
 
 DISTNAME = 'FirstPackagePython'
-INSTALL_REQUIRES = {
-      ['requests >= 2.3.0', 'wrapt', 'lxml']
-}
+INSTALL_REQUIRES = (
+    ['pandas>=0.19.2', 'requests>=2.3.0', 'wrapt', 'lxml']
+)
+
 VERSION = '0.0'
 LICENSE = 'BSD'
 DESCRIPTION = 'My First Package'
